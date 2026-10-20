@@ -1,0 +1,9 @@
+name: Stormbreaker
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+commands:
+  stormbreaker:
+    description: Gives the player the Stormbreaker trident.
+    usage: /stormbreaker
